@@ -1,1 +1,2 @@
-for letter in
+for letter in 'Habi':
+    print(letter)
